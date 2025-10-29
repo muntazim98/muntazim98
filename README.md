@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm <span style="color:#2193b0">Muntazim Ali Khan</span></h1>
-<h3 align="center">Software Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <b>Specializing in .NET Core, WPF, React.js, Node.js, and scalable architecture design.</b>
+  <b>Specializing in .NET Core, WPF, React.js, ASP.NET Core, SQL Programming, MongoDB, scalable architecture design and integration of AI for business needs.</b>
   <br/>
   Passionate about building high-performance applications that solve real-world problems.
 </p>
@@ -15,10 +15,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prism-1B1F23?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
