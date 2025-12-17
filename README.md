@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm <span style="color:#2193b0">Muntazim Ali Khan</span></h1>
-<h3 align="center">Software Developer | Tech Enthusiast</h3>
+<h3 align="center"> AI-Focused Software Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <b>Specializing in .NET Core, WPF, React.js, ASP.NET Core, SQL Programming, MongoDB, scalable architecture design and integration of AI for business needs.</b>
+  <b>Specializing in AI focused application by ASP.NET Core, React.js, WPF, SQL Programming, MongoDB, scalable architecture design. Integration of AI using generative AI and LLM APIs for business needs.</b>
   <br/>
-  Passionate about building high-performance applications that solve real-world problems.
+  Passionate about building high-performance applications that solve real-world problems using AI.
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ### 🧠 About Me
 
-- 💻 Experienced in building full-stack applications with modern architecture.
+- 💻 Experienced in building full-stack applications with modern architecture and integration of AI for better user experience and business needs.
 - 🛠 Focused on clean code, SOLID principles, and performance optimization.
 - 🧩 Constantly exploring new technologies and tools to improve developer productivity.
 - 👥 Love collaborating on meaningful projects and sharing knowledge with the community.
