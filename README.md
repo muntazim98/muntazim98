@@ -1,13 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm <span style="color:#2193b0">Muntazim Ali Khan</span></h1>
-<h3 align="center"> AI Software Developer | Tech Enthusiast</h3>
+<h3 align="center"> AI Software Developer | AI Enthusiast | LLM Integration | Cloud</h3>
 
 <p align="center">
-  <b>AI-focused Software Developer with expertise in Python, ASP.NET Core, C#, WPF, React.js, cloud platforms, and Generative 
-AI integration. Led the design and deployment of AI-powered applications, successfully delivering production-ready 
-solutions on time and achieving a 40% improvement in system performance and a 35% increase in user engagement 
-through intelligent automation and enhanced UI experiences. Skilled in integrating LLMs, AI services, and scalable backend 
-systems to solve complex engineering challenges and deliver high-quality, business-driven software solutions.</b>
+  <b>
+AI-focused Software Developer specializing in Generative AI, Agentic AI, LLM integration, and intelligent system design across web and desktop platforms. I build scalable, production-ready AI solutions by combining modern software engineering practices with cutting-edge AI models.
+
+My expertise spans Python, FastAPI, ASP.NET Core, React.js, WPF and cloud-native architectures, with hands-on experience integrating LLMs, AI APIs, and intelligent automation into real-world applications. I design robust backend systems using SQL Server and PostgreSQL, ensuring performance, security, and scalability.
+
+I work extensively with Microsoft Azure and AWS, enabling end-to-end AI-powered solutions—from model integration to deployment and monitoring. Passionate about transforming complex ideas into intuitive, AI-driven products that deliver real business impact.</b>
   <br/>
   Passionate about building high-performance AI applications that solve real-world problems.
 </p>
