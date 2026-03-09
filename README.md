@@ -6,7 +6,7 @@
   <b>
 AI-focused Software Developer specializing in Generative AI, Agentic AI, LLM integration, and intelligent system design across web and desktop platforms. I build scalable, production-ready AI solutions by combining modern software engineering practices with cutting-edge AI models.
 
-My expertise spans Python, FastAPI, ASP.NET Core, React.js, WPF and cloud-native architectures, with hands-on experience integrating LLMs, AI APIs, and intelligent automation into real-world applications. I design robust backend systems using SQL Server and PostgreSQL, ensuring performance, security, and scalability.
+My expertise spans Python, FastAPI, Gen AI, React.js, WPF and cloud-native architectures, with hands-on experience integrating LLMs, AI APIs, and intelligent automation into real-world applications. I design robust backend systems using SQL Server and PostgreSQL, ensuring performance, security, and scalability.
 
 I work extensively with Microsoft Azure and AWS, enabling end-to-end AI-powered solutions—from model integration to deployment and monitoring. Passionate about transforming complex ideas into intuitive, AI-driven products that deliver real business impact.</b>
 <br/>
@@ -33,9 +33,12 @@ Always eager to collaborate on challenging problems, innovate with Generative AI
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge&logo=databricks&logoColor=white" />
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <!-- Gen AI Backend -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -44,7 +47,7 @@ Always eager to collaborate on challenging problems, innovate with Generative AI
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=weaviate&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Pinecone-0052FF?style=for-the-badge" />
   <!-- Cloud & MLOps -->
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
