@@ -20,7 +20,6 @@ Always eager to collaborate on challenging problems, innovate with Generative AI
 <p align="center">
   <!-- Programming -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 
   <!-- AI / ML -->
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
@@ -30,7 +29,6 @@ Always eager to collaborate on challenging problems, innovate with Generative AI
 
   <!-- GenAI / LLM -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge&logo=databricks&logoColor=white" />
 
   <!-- Gen AI Backend -->
@@ -48,6 +46,7 @@ Always eager to collaborate on challenging problems, innovate with Generative AI
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_DB-4B0082?style=for-the-badge&logo=weaviate&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-0052FF?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <!-- Cloud & MLOps -->
   <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
