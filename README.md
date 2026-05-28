@@ -6,7 +6,7 @@
   <b>
 AI-focused Software Developer specializing in Generative AI, Agentic AI, LLM integration, and intelligent system design across web and desktop platforms. I build scalable, production-ready AI solutions by combining modern software engineering practices with cutting-edge AI models.
 
-My expertise spans Python, FastAPI, Gen AI, React.js, WPF and cloud-native architectures, with hands-on experience integrating LLMs, AI APIs, and intelligent automation into real-world applications. I design robust backend systems using SQL Server and PostgreSQL, ensuring performance, security, and scalability.
+My expertise spans Python, FastAPI, Gen AI, RAG, LLMs, Agentic AI and cloud-native architectures, with hands-on experience integrating LLMs, AI APIs, and intelligent automation into real-world applications. I design robust backend systems using SQL Server and PostgreSQL, ensuring performance, security, and scalability.
 
 I work extensively with Microsoft Azure and AWS, enabling end-to-end AI-powered solutions—from model integration to deployment and monitoring. Passionate about transforming complex ideas into intuitive, AI-driven products that deliver real business impact.</b>
 <br/>
