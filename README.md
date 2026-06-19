@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm <span style="color:#2193b0">Muntazim Ali Khan</span></h1>
-<h3 align="center"> AI Software Developer | AI Enthusiast | LLM Integration | Cloud</h3>
+<h3 align="center"> AI Enthusiast | LLM Integration | Cloud</h3>
 
 <p align="center">
   <b>
