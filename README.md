@@ -73,7 +73,7 @@ Always eager to collaborate on challenging problems, innovate with Generative AI
 
 ### 🧠 About Me
 
-- 💻 Experienced in building full-stack applications with modern architecture and integration of AI for better user experience and business needs.
+- 💻 Experienced in building AI full-stack applications with modern architecture and integration of AI for better user experience and business needs.
 - 🛠 Focused on clean code, SOLID principles, and performance optimization.
 - 🧩 Constantly exploring new technologies and tools to improve developer productivity.
 - 👥 Love collaborating on meaningful projects and sharing knowledge with the community.
