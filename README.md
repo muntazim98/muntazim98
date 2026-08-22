@@ -1,14 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm <span style="color:#2193b0">Muntazim Ali Khan</span></h1>
-<h3 align="center"> AI Enthusiast | LLM Integration | Cloud</h3>
+<h3 align="center"> AI Engineer | Agentic AI | Generative AI | Machine Learning | RAG | LLMs | Azure | AWS </h3>
 
 <p align="center">
   <b>
-AI-Engineer specializing in Generative AI, Agentic AI, LLM integration, and intelligent system design across web and desktop platforms. I build scalable, production-ready AI solutions by combining modern software engineering practices with cutting-edge AI models.
+AI Engineer focused on building production-ready, scalable AI systems that solve real-world business problems. My expertise includes Machine Learning, Generative AI, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Natural Language Processing (NLP), with a strong emphasis on cloud-native AI development.
 
-My expertise spans Python, FastAPI, Gen AI, RAG, LLMs, Agentic AI and cloud-native architectures, with hands-on experience integrating LLMs, AI APIs, and intelligent automation into real-world applications. I design robust backend systems using SQL Server and PostgreSQL, ensuring performance, security, and scalability.
+I design and develop end-to-end AI solutions—from data processing and retrieval systems to AI orchestration, model integration, and deployment. I have experience building enterprise-grade applications using Python, FastAPI, LangChain, LangGraph, Azure AI, AWS, and modern cloud architectures to deliver secure and high-performance systems.
 
-I work extensively with Microsoft Azure and AWS, enabling end-to-end AI-powered solutions—from model integration to deployment and monitoring. Passionate about transforming complex ideas into intuitive, AI-driven products that deliver real business impact.</b>
+I focus on bridging traditional Machine Learning with modern Generative AI to build intelligent systems that automate workflows, improve decision-making, and deliver business value. I continuously explore emerging AI technologies to build scalable and production-ready solutions.
+
+I'm open to connecting, collaborating on AI projects, and exploring opportunities in AI Engineering, Machine Learning, Generative AI, and Cloud AI systems.
+</b>
+<br/>
 <br/>
 Always eager to collaborate on challenging problems, innovate with Generative AI, Agentic AI and build systems that redefine digital experiences.
 </p>
@@ -73,10 +77,12 @@ Always eager to collaborate on challenging problems, innovate with Generative AI
 
 ### 🧠 About Me
 
-- 💻 Experienced in building AI full-stack applications with modern architecture and integration of AI for better user experience and business needs.
-- 🛠 Focused on clean code, SOLID principles, and performance optimization.
-- 🧩 Constantly exploring new technologies and tools to improve developer productivity.
-- 👥 Love collaborating on meaningful projects and sharing knowledge with the community.
+- 🤖 AI Engineer building production-ready **Generative AI, LLM, and Agentic AI applications**.
+- 🏗️ Experienced in designing **AI full-stack systems, RAG pipelines, AI agents, APIs, and cloud-native architectures**.
+- ⚙️ Focused on **clean architecture, SOLID principles, scalability, performance, and reliable engineering practices**.
+- ☁️ Working with **Python, FastAPI, LangGraph, Azure AI, Docker, and modern LLM ecosystems**.
+- 🔬 Constantly exploring emerging **AI technologies, developer tools, and intelligent automation**.
+- 🤝 Passionate about building meaningful products, solving complex problems, and sharing knowledge with the developer community.
 
 ---
 
